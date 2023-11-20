@@ -74,7 +74,7 @@ const path = {
     imgF: 'src/img/**/*.{jpg,jpeg,png}',
   },
   clean: './dist',
-  cleanImg: './dist/images'
+  cleanImg: './dist/img'
 };
 
 //html
