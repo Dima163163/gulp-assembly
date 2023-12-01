@@ -333,7 +333,7 @@ export const server = () => {
 
 export const clear = (done) => {
   deleteSync([path.dist.base], {
-    force: true,
+    forse: true,
   });
   done();
 };
